@@ -1,4 +1,4 @@
-# cse134b_hw2_starter
+# cse134 HW2 Part 3
 
 1. Do NOT include any text that appeared on the PDF that is irrelevant to the page contents (ex: the timestamp, the contents of the title element which can be set to whatever you want, the URL, and the page number)
 
